@@ -8,4 +8,4 @@ VOLUME ["/data"]
 
 USER nobody
 
-CMD turf-cli help
+CMD turf -help
